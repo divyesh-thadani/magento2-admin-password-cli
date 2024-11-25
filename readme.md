@@ -112,7 +112,6 @@ If you encounter any issues or have questions, please:
 
 ## Author
 
-Your Name
 - GitHub: [@divyesh-thadani](https://github.com/divyesh-thadani)
 - Email: divyesh@kryptalabs.com
 
