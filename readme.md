@@ -4,13 +4,12 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/kryptalabs/module-admin-password-cli.svg)](https://packagist.org/packages/kryptalabs/module-admin-password-cli)
 [![License](https://img.shields.io/packagist/l/kryptalabs/module-admin-password-cli.svg)](https://packagist.org/packages/kryptalabs/module-admin-password-cli)
 
-A Magento 2 module that provides a secure CLI command to change admin user passwords, particularly useful when multiple admin users share the same username. This module adds an extra layer of security by requiring email verification during the password change process.
+A Magento 2 module that provides a secure CLI command to change admin user passwords. This module adds an extra layer of security by requiring email verification during the password change process.
 
 ## Features
 
 - 🔐 Secure password changing via CLI
 - ✉️ Email verification to identify the correct admin user
-- 👥 Handles multiple users with the same username
 - 🛡️ Input validation and error handling
 - 📝 Detailed success/error messaging
 
